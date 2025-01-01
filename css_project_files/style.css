@@ -1,0 +1,24 @@
+body {
+    background-image: url('pasqualino-capobianco-ExOO72gfZks-unsplash.jpg');
+    background-size: cover;
+}
+
+h2, p {
+    color: #AA4139;
+    text-align: center;
+    border: 5px solid rgba(255, 176, 170, 0.5);
+    cursor: pointer;
+}
+
+p {
+    color: pink;
+}
+
+p {
+    color: green;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
